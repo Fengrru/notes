@@ -39,8 +39,8 @@ Each paper has its own repository, with the code and the paper together.
 | Honest Code: Attention Is Not Enough — A Benchmark of Hallucination Detection for Code LLMs | [repograph-honest](https://github.com/Fengrru/repograph-honest) |
 | When Physics Fails to Think: A Negative Result on Port-Hamiltonian Dynamics | [negative-result](https://github.com/Fengrru/negative-result) |
 | Storage–Compute Separation for Continual Learning | [storage-compute-separation](https://github.com/Fengrru/storage-compute-separation) |
-| When Should a Prototype Memory Grow? Prediction-Error Gating for Continual Learning | [prediction-error-gating](https://github.com/Fengrru/prediction-error-gating) |
-| Three Ways Predictive Coding Fails (Variational Information Bottleneck) | [predictive-coding-fails](https://github.com/Fengrru/predictive-coding-fails) |
+| When Should a Prototype Memory Grow? Prediction-Error Gating for Continual Learning — and Three Ways Predictive Coding Fails | [prediction-error-gating](https://github.com/Fengrru/prediction-error-gating) |
+| Layer-wise Compression Tolerance in Variational Information Bottleneck Networks | [predictive-coding-fails](https://github.com/Fengrru/predictive-coding-fails) |
 | Testing the Continuous Perceptual Trajectory Hypothesis for Musical Motion | [mmt](https://github.com/Fengrru/mmt) |
 | Probing Timbre Space: Gate Experiments for Inverse Synthesizer Patch Synthesis | [timbreprobe](https://github.com/Fengrru/timbreprobe) |
 | Instrument First: Validated Measurement for Non-Stationary Generative Audio | [instrument-first](https://github.com/Fengrru/instrument-first) |

@@ -39,8 +39,8 @@
 | Honest Code：仅靠注意力还不够——代码大模型幻觉检测基准 | [repograph-honest](https://github.com/Fengrru/repograph-honest) |
 | 当物理无法思考：Port-Hamiltonian 动力学作为神经计算基底的一个负面结果 | [negative-result](https://github.com/Fengrru/negative-result) |
 | 持续学习中的存储–计算分离 | [storage-compute-separation](https://github.com/Fengrru/storage-compute-separation) |
-| 原型记忆应该什么时候生长？持续学习中的预测误差门控 | [prediction-error-gating](https://github.com/Fengrru/prediction-error-gating) |
-| 预测编码失败的三条路径（变分信息瓶颈） | [predictive-coding-fails](https://github.com/Fengrru/predictive-coding-fails) |
+| 原型记忆应该什么时候生长？持续学习中的预测误差门控——以及预测编码失败的三条路径 | [prediction-error-gating](https://github.com/Fengrru/prediction-error-gating) |
+| 变分信息瓶颈网络中的逐层压缩容忍度 | [predictive-coding-fails](https://github.com/Fengrru/predictive-coding-fails) |
 | 音乐运动的连续知觉轨迹假设检验 | [mmt](https://github.com/Fengrru/mmt) |
 | 探测音色空间：逆向合成器音色参数的关口实验 | [timbreprobe](https://github.com/Fengrru/timbreprobe) |
 | 仪器优先：非平稳生成式音频的可验证测量 | [instrument-first](https://github.com/Fengrru/instrument-first) |
