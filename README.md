@@ -35,7 +35,7 @@ Each paper has its own repository, with the code and the paper together.
 | Paper | Repository |
 |-------|------------|
 | DP-ProtOn: Dirichlet-Process-Guided Online Prototype Learning for Continual Classification | [dp-proton](https://github.com/Fengrru/dp-proton) |
-| Sentinel Attention: Error-Gated Sparse Attention with Endogenous Out-of-Distribution Signals | [sentinel-attention](https://github.com/Fengrru/sentinel-attention) |
+| Sentinel Attention: Error-Gated Sparse Attention with Endogenous Out-of-Distribution Signals | [pwpf](https://github.com/Fengrru/pwpf) |
 | Honest Code: Attention Is Not Enough — A Benchmark of Hallucination Detection for Code LLMs | [repograph-honest](https://github.com/Fengrru/repograph-honest) |
 | When Physics Fails to Think: A Negative Result on Port-Hamiltonian Dynamics | [negative-result](https://github.com/Fengrru/negative-result) |
 | Storage–Compute Separation for Continual Learning | [storage-compute-separation](https://github.com/Fengrru/storage-compute-separation) |

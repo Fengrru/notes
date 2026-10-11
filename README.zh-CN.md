@@ -35,7 +35,7 @@
 | 论文 | 仓库 |
 |-------|------------|
 | DP-ProtOn：狄利克雷过程引导的在线原型学习 | [dp-proton](https://github.com/Fengrru/dp-proton) |
-| Sentinel Attention：带内源性 OOD 信号的误差门控稀疏注意力 | [sentinel-attention](https://github.com/Fengrru/sentinel-attention) |
+| Sentinel Attention：带内源性 OOD 信号的误差门控稀疏注意力 | [pwpf](https://github.com/Fengrru/pwpf) |
 | Honest Code：仅靠注意力还不够——代码大模型幻觉检测基准 | [repograph-honest](https://github.com/Fengrru/repograph-honest) |
 | 当物理无法思考：Port-Hamiltonian 动力学作为神经计算基底的一个负面结果 | [negative-result](https://github.com/Fengrru/negative-result) |
 | 持续学习中的存储–计算分离 | [storage-compute-separation](https://github.com/Fengrru/storage-compute-separation) |
