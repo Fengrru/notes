@@ -34,6 +34,7 @@ Each paper has its own repository, with the code and the paper together.
 
 | Paper | Repository |
 |-------|------------|
+| Energy-Basin Continual Learning: An Honest Reconstruction and Falsification — corrects the §5.2 creation-rule comparison in DP-ProtOn below | [energy-basin-cl](https://github.com/Fengrru/energy-basin-cl) |
 | DP-ProtOn: Dirichlet-Process-Guided Online Prototype Learning for Continual Classification | [dp-proton](https://github.com/Fengrru/dp-proton) |
 | Sentinel Attention: Error-Gated Sparse Attention with Endogenous Out-of-Distribution Signals | [pwpf](https://github.com/Fengrru/pwpf) |
 | Honest Code: Attention Is Not Enough — A Benchmark of Hallucination Detection for Code LLMs | [repograph-honest](https://github.com/Fengrru/repograph-honest) |

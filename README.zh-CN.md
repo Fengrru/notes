@@ -34,6 +34,7 @@
 
 | 论文 | 仓库 |
 |-------|------------|
+| 能量盆地式持续学习：一次诚实的重构与证伪 —— 更正下面 DP-ProtOn 的 §5.2 建盆准则对照 | [energy-basin-cl](https://github.com/Fengrru/energy-basin-cl) |
 | DP-ProtOn：狄利克雷过程引导的在线原型学习 | [dp-proton](https://github.com/Fengrru/dp-proton) |
 | Sentinel Attention：带内源性 OOD 信号的误差门控稀疏注意力 | [pwpf](https://github.com/Fengrru/pwpf) |
 | Honest Code：仅靠注意力还不够——代码大模型幻觉检测基准 | [repograph-honest](https://github.com/Fengrru/repograph-honest) |
