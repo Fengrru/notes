@@ -1,0 +1,11 @@
+{
+  "name": "fengrru-notes",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Bilingual essays and research notes. Text is CC BY-NC 4.0, scripts are MIT.",
+  "license": "MIT",
+  "scripts": {
+    "check": "node scripts/check-parity.mjs"
+  }
+}
